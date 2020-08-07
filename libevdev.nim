@@ -20,7 +20,8 @@
 ##  OF THIS SOFTWARE.
 ## 
 
-import linux/input
+import ./linux/input
+export input
 
 
 ## *

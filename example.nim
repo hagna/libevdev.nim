@@ -1,5 +1,5 @@
 import strutils, os, posix
-import libevdev, linux/input
+import libevdev 
 
 proc main() =
   var found = false
